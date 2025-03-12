@@ -5,3 +5,5 @@
 - [x] Créer le dépôt
 - [ ] Modifier le fichier principale de documentation du repo `README.md`
 - Comprendre
+- Ca va envoyer du grain
+- 
